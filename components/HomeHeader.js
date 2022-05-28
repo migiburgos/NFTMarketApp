@@ -70,7 +70,7 @@ const HomeHeader = ({onSearch}) => {
             flexDirection: 'row',
             alignItems: 'center',
             paddingHorizontal: SIZES.font,
-            // paddingVertical: SIZES.small - 2,
+            paddingVertical: SIZES.small - 2,
           }}>
           <Image
             source={assets.search}
